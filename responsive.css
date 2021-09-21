@@ -1,0 +1,53 @@
+
+@media only screen and (max-width: 1226px) {
+	.des-area .share-area {
+		display: block;
+	}
+	.des-area .share-area ul {
+		margin: 15px 0;
+	}
+}
+
+@media only screen and (min-width: 200px) and (max-width:1024px) {
+	.des-area .choose-p {
+		display: block;
+   		margin: 30px 0;
+	}
+	.choose-p .pes, .choose-p .ps {
+		margin-bottom: 10px;
+	}
+
+}
+@media only screen and (max-width: 768px) {
+	.section-three .main-area {
+		display: block;
+	}
+	.section-two .main-menu {
+		display: none;
+	}
+	.des-area .share-area {
+		border-bottom: none;
+		padding-bottom: 0;
+	}
+
+
+
+}
+@media only screen and (min-width: 200px) and (max-width:480px) {
+	.head {
+		width: 100%;
+		margin-left: 0;
+	}
+	.pop-up p {
+		font-size: 8px;
+	}
+	.second h2 {
+		font-size: 24px;
+	}
+	.third p {
+		padding: 0.5em 1em;
+	}
+	.card-area .wishlist img {
+		margin-right: 2px;
+	}
+}
